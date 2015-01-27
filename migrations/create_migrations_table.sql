@@ -1,7 +1,7 @@
 -- migrations table creation
 --
 --
-USE `checkbook`;
+
 
 DROP TABLE IF EXISTS `migrations`;
 
